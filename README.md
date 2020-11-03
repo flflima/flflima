@@ -13,7 +13,6 @@ Here you may find some codes/projects that I have been studying, where most of t
 Some of what you might find in here:
 - Java
 - Kotlin
+- Scala
 - Spring Boot
 - RESTful APIs
-- Angular
-- Typescript
