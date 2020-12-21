@@ -10,7 +10,7 @@
 
 <p align="center">Here you may find some codes/projects that I have been studying, where most of them are proof of concept.</p>
 
-<p align="center">:computer: Here are some languages you might find in here, and also some tools I usually use:</p>
+<p align="center">:computer: These are some of the programming languages you might find in my herepage and also some tools I usually work with:</p>
 
 <p align="center">
   <img alt="Java" title="Java" src="https://github.com/flflima/flflima/blob/master/img/java.png" width="50" height="50">&nbsp;&nbsp;
@@ -20,6 +20,9 @@
   <img alt="NodeJS" title="NodeJS" src="https://github.com/flflima/flflima/blob/master/img/nodejs.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="Go" title="Go" src="https://github.com/flflima/flflima/blob/master/img/go.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="Git" title="Git" src="https://github.com/flflima/flflima/blob/master/img/git.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" src="https://github.com/flflima/flflima/blob/master/img/github.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="VSCode" title="VSCode" src="https://github.com/flflima/flflima/blob/master/img/vs-code.png" width="50" height="50">&nbsp;&nbsp;
-  <img alt="Intellij" title="Intellij" src="https://github.com/flflima/flflima/blob/master/img/intellij.png" width="50" height="50">
+  <img alt="Intellij" title="Intellij" src="https://github.com/flflima/flflima/blob/master/img/intellij.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Travis CI" title="Travis CI" src="https://github.com/flflima/flflima/blob/master/img/travis-ci.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="CircleCI" title="CircleCI" src="https://github.com/flflima/flflima/blob/master/img/circle-ci.png" width="50" height="50">
 </p>
