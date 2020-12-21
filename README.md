@@ -10,6 +10,8 @@
 
 <p align="center">Here you may find some codes/projects that I have been studying, where most of them are proof of concept.</p>
 
-:computer: Here are some languages you might find in here, and also some tools I usually use:
+<p align="center">:computer: Here are some languages you might find in here, and also some tools I usually use:</p>
 
-<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/java.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/kotlin.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/scala.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/spring-boot.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/nodejs.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/go.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/git.png" width="50" height="50">
+<p align="center">
+  <img src="https://github.com/flflima/flflima/blob/master/stack%20icons/java.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/kotlin.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/scala.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/spring-boot.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/nodejs.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/go.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/stack%20icons/git.png" width="50" height="50">
+</p>
