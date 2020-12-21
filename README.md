@@ -13,5 +13,13 @@
 <p align="center">:computer: Here are some languages you might find in here, and also some tools I usually use:</p>
 
 <p align="center">
-  <img alt="Java" src="https://github.com/flflima/flflima/blob/master/img/java.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/kotlin.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/scala.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/spring-boot.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/nodejs.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/go.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/git.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/vs-code.png" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/flflima/flflima/blob/master/img/intellij.png" width="50" height="50">
+  <img alt="Java" title="Java" src="https://github.com/flflima/flflima/blob/master/img/java.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Kotlin" title="Kotlin" src="https://github.com/flflima/flflima/blob/master/img/kotlin.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Spring Boot" title="Spring Boot" src="https://github.com/flflima/flflima/blob/master/img/spring-boot.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Scala" title="Scala" src="https://github.com/flflima/flflima/blob/master/img/scala.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="NodeJS" title="NodeJS" src="https://github.com/flflima/flflima/blob/master/img/nodejs.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Go" title="Go" src="https://github.com/flflima/flflima/blob/master/img/go.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Git" title="Git" src="https://github.com/flflima/flflima/blob/master/img/git.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="VSCode" title="VSCode" src="https://github.com/flflima/flflima/blob/master/img/vs-code.png" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Intellij" title="Intellij" src="https://github.com/flflima/flflima/blob/master/img/intellij.png" width="50" height="50">
 </p>
