@@ -10,7 +10,7 @@
 
 <p align="center">Here you may find some codes/projects that I have been studying, where most of them are proof of concept.</p>
 
-<p align="center">:computer: These are some of the programming languages you might find in my herepage and also some tools I usually work with:</p>
+<p align="center">:computer: These are some of the programming languages you might find in my page and also some tools I usually work with:</p>
 
 <p align="center">
   <img alt="Java" title="Java" src="https://github.com/flflima/flflima/blob/master/img/java.png" width="50" height="50">&nbsp;&nbsp;
