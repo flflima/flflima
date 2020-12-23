@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <img alt="Gradle" title="Gradle" src="https://github.com/flflima/flflima/blob/master/img/gradle.png" width="50" height="50">&nbsp;&nbsp;
-  <img alt="Maven" title="Maven" src="https://github.com/flflima/flflima/blob/master/img/maven.svg" width="50" height="50">&nbsp;&nbsp;
+  <img alt="Maven" title="Maven" src="https://github.com/flflima/flflima/blob/master/img/maven.png" width="50" height="50">&nbsp;&nbsp;
 </p>
 <p align="center">
   <img alt="Git" title="Git" src="https://github.com/flflima/flflima/blob/master/img/git.png" width="50" height="50">&nbsp;&nbsp;
