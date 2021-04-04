@@ -1,9 +1,15 @@
 <h1 align="center">Felipe Lima </h1>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/flimafreire">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://br.linkedin.com/in/flimafreire">LinkedIn</a>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/flflima">DEV</a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@flf.felipe">Medium</a>
 </p>
 
 <p align="center">Welcome to my GitHub page! :tada::tada:</p>
