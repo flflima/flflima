@@ -37,6 +37,6 @@
 
 <hr>
 
-<p align="left">
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flflima&hide=html&layout=compact" />
+<p align="center">
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flflima&hide=html&layout=compact" />
 </p>
