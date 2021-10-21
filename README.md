@@ -10,6 +10,8 @@
 
 <p align="left">:computer: These are some of the programming languages and frameworks you might find in my page and also some tools I usually work with:</p>
 
+<br/>
+
 <p align="center">
   <img alt="Java" title="Java" src="https://github.com/flflima/flflima/blob/main/img/java.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="Kotlin" title="Kotlin" src="https://github.com/flflima/flflima/blob/main/img/kotlin.png" width="50" height="50">&nbsp;&nbsp;
@@ -32,6 +34,9 @@
   <img alt="Travis CI" title="Travis CI" src="https://github.com/flflima/flflima/blob/main/img/travis-ci.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="CircleCI" title="CircleCI" src="https://github.com/flflima/flflima/blob/main/img/circle-ci.png" width="50" height="50">
 </p>
+
+<hr>
+
 <p align="left">
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flflima&hide=html&layout=compact" />
 </p>
