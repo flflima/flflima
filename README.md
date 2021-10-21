@@ -6,7 +6,7 @@
 
 <p align="left">Welcome to my GitHub page! :tada::tada:</p>
 
-<p align="left">Here you may find some codes/projects that I have been studying, where most of them are proof of concept.</p>
+<p align="left">Here you may find some codes/projects that I have been studying, where most of them are proof of concept :P.</p>
 
 <p align="left">:computer: These are some of the programming languages and frameworks you might find in my page and also some tools I usually work with:</p>
 
