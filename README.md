@@ -50,3 +50,11 @@
   <img alt="Travis CI" title="Travis CI" src="https://github.com/flflima/flflima/blob/main/img/travis-ci.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="CircleCI" title="CircleCI" src="https://github.com/flflima/flflima/blob/main/img/circle-ci.png" width="50" height="50">
 </p>
+<center>
+  <table>
+      <tr>
+          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flflima&hide=html&layout=compact" /></td>
+          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=flflima"/></td>
+      </tr>   
+  </table>
+</center>  
