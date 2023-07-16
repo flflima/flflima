@@ -11,7 +11,9 @@
 <p align="left">:computer: These are some of the programming languages and frameworks you might find in my page and also some tools I usually work with:</p>
 
 <br/>
-
+<p align="center">
+www.stackshare.io/flffelipe/my-stack
+</p>
 <p align="center">
   <img alt="Java" title="Java" src="https://github.com/flflima/flflima/blob/main/img/java.png" width="50" height="50">&nbsp;&nbsp;
   <img alt="Kotlin" title="Kotlin" src="https://github.com/flflima/flflima/blob/main/img/kotlin.png" width="50" height="50">&nbsp;&nbsp;
